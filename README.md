@@ -1,5 +1,6 @@
-# TicTacToe
-Objective: Tic-Tac-Toe game developed to reinforce/re-learn React principles.
+# Mini Games
+Objective: 
+Game 1: Tic-Tac-Toe game developed to reinforce/re-learn React principles.
 
 Tools: React, JavaScript, HTML/CSS
 
